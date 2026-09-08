@@ -31,7 +31,3 @@ Durante este proyecto practiqué:
 - Agrupaciones con Pandas.
 - Creación de gráficos.
 - Obtención de conclusiones a partir de los datos.
-
-## Autor
-
-Martín Luksic
