@@ -1,15 +1,10 @@
 # Análisis de Accidentes
 
-Análisis de datos utilizando Python y Jupyter Notebook.
+Realizado en Jupyter Notebook utilizando Python y Pandas.
 
-## Contenido
+## Objetivo
 
-En este proyecto analizo datos de accidentes de tránsito en Chile para explorar:
-
-- Evolución de los siniestros a lo largo del tiempo.
-- Cantidad de fallecidos por tipo de vehículo.
-- Comparación entre distintos tipos de vehículos.
-- Tendencias generales presentes en los datos.
+Explorar un conjunto de datos de accidentes de tránsito en Chile para identificar tendencias y utilizar herramientas comunes en el analisis de datos.
 
 ## Herramientas utilizadas
 
@@ -18,16 +13,14 @@ En este proyecto analizo datos de accidentes de tránsito en Chile para explorar
 - Matplotlib
 - Jupyter Notebook
 
+## Análisis realizado
+
+- Exploración de datos.
+- Limpieza básica.
+- Agrupación y resumen de información.
+- Visualización de resultados.
+- Obtención de conclusiones a partir de los datos.
+
 ## Archivo principal
 
-- `analisis_accidentes.ipynb`
-
-## Aprendizajes
-
-Durante este proyecto practiqué:
-
-- Carga y exploración de datos.
-- Limpieza básica de datos.
-- Agrupaciones con Pandas.
-- Creación de gráficos.
-- Obtención de conclusiones a partir de los datos.
+- `notebooks/analisis_accidentes.ipynb`
